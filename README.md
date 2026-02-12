@@ -3,12 +3,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Flask](https://img.shields.io/badge/Flask-3.0.0-green.svg)](https://flask.palletsprojects.com/)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/nttweatherapp)](https://github.com/yourusername/nttweatherapp/issues)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/nttweatherapp)](https://github.com/yourusername/nttweatherapp/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/ibnehussain/nttweatherapp)](https://github.com/ibnehussain/nttweatherapp/issues)
+[![GitHub stars](https://img.shields.io/github/stars/ibnehussain/nttweatherapp)](https://github.com/ibnehussain/nttweatherapp/stargazers)
 
 A responsive web application that provides real-time weather information for cities worldwide. Built with HTML, CSS, JavaScript frontend and Python Flask backend, powered by the OpenWeatherMap API.
 
-🚀 **[Live Demo](https://yourusername.github.io/nttweatherapp)** | 📖 **[Documentation](docs/)** | 🐛 **[Report Bug](https://github.com/yourusername/nttweatherapp/issues)**
+🚀 **[Live Demo](https://ibnehussain.github.io/nttweatherapp)** | 📖 **[Documentation](docs/)** | 🐛 **[Report Bug](https://github.com/ibnehussain/nttweatherapp/issues)**
 
 ## Table of Contents
 
@@ -62,7 +62,7 @@ Frontend (HTML/CSS/JS) ↔ Flask Backend ↔ OpenWeatherMap API
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/nttweatherapp.git
+   git clone https://github.com/ibnehussain/nttweatherapp.git
    cd nttweatherapp
    ```
 
@@ -357,7 +357,7 @@ We welcome contributions! Please see our [Contributing Guidelines](docs/CONTRIBU
 
 ```bash
 # Setup development environment
-git clone https://github.com/yourusername/nttweatherapp.git
+git clone https://github.com/ibnehussain/nttweatherapp.git
 cd nttweatherapp
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
@@ -380,8 +380,8 @@ Need help? Here are your options:
 3. **[Development Guide](docs/DEVELOPMENT.md)** - Setup and development workflow
 
 ### 💡 Still need help?
-- **[Create an Issue](https://github.com/yourusername/nttweatherapp/issues)** - For bugs or feature requests
-- **[Discussions](https://github.com/yourusername/nttweatherapp/discussions)** - For questions and community support
+- **[Create an Issue](https://github.com/ibnehussain/nttweatherapp/issues)** - For bugs or feature requests
+- **[Discussions](https://github.com/ibnehussain/nttweatherapp/discussions)** - For questions and community support
 - **[OpenWeatherMap Docs](https://openweathermap.org/api)** - For weather API questions
 
 ### 📧 Contact
